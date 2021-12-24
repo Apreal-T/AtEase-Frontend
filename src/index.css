@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+  }
+  .navbar{
+    width: 1440px;
+  }
+  .firstbar{
+    padding: 20px;
+    display: flex;
+    width: 1440px;
+    height: 133px;
+    margin: 0;
+    background-color: #0a0b69;
+  }
+  .logo{
+    width: 200px;
+    height: 88px;
+    color: #F4F4FF;
+    align-items: left;
+    padding: 40px;
+  }
+  
+  .firstbar h1{
+    text-align: right;
+    color: #F4F4FF;
+    width: 613px;
+    height: 54px;
+    margin: 70px auto;
+    
+  }
+  .links{
+    width: 1440px;
+    height: 40px;
+    align-items: center;
+    color: #F4F4FF;
+    background-color: #172f9a;
+    text-decoration: none;
+    margin-left: auto;
+  
+    
+  }
+  .links a{
+    text-decoration: none;
+    color: #F4F4FF;
+    align-items: center;
+    margin-left: 80px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .links form{
+    display: inline-block;
+    margin: 20px;
+  }
+  .links form input{
+    border: 20px;
+  }
+  .content-image {
+    background-image: url("C:/Users/user/Desktop/AtEase-Frontend/public/images/atease-video.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1440px;
+    height: 766px;
+  }
+  .pause{
+    width: 191px;
+    height: 236px;
+    align-items: center;
+    padding: 150px;
+    margin: 280px ;
+    transform-origin: center;
+  }
